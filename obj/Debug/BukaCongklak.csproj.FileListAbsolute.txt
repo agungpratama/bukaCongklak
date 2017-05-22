@@ -1,0 +1,6 @@
+c:\users\agung\onedrive\documents\visual studio 2015\Projects\BukaCongklak\bin\Debug\BukaCongklak.exe.config
+C:\Users\agung\onedrive\documents\visual studio 2015\Projects\BukaCongklak\bin\Debug\BukaCongklak.exe
+C:\Users\agung\onedrive\documents\visual studio 2015\Projects\BukaCongklak\bin\Debug\BukaCongklak.pdb
+C:\Users\agung\onedrive\documents\visual studio 2015\Projects\BukaCongklak\obj\Debug\BukaCongklak.csprojResolveAssemblyReference.cache
+C:\Users\agung\onedrive\documents\visual studio 2015\Projects\BukaCongklak\obj\Debug\BukaCongklak.exe
+C:\Users\agung\onedrive\documents\visual studio 2015\Projects\BukaCongklak\obj\Debug\BukaCongklak.pdb
